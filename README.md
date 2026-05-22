@@ -97,7 +97,7 @@ Quick Reference
     <br/>
     <br/>
     <a href="https://doloffer.com/" target="_blank">
-      <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
+      <img alt="DolOffer" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
       <!--rehype:style=width: 230px;-->
       <br>
       <b>DolOffer - 一站式数字订阅充值平台</b><br/>
@@ -173,6 +173,16 @@ Quick Reference
 [SwiftUI](./docs/swiftui.md)<!--rehype:style=background:rgb(10 127 247);&class=tag&data-lang=swift-->
 [Spring Boot](./docs/springboot.md)<!--rehype:style=background:rgb(0 149 0);&class=tag&data-lang=Java-->
 [Minio](./docs/minio.md)<!--rehype:style=background:rgb(3 3 128);-->
+<!--rehype:class=home-card-->
+
+
+## AI
+
+[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[Codex CLI](./docs/codex-cli.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=tag&data-lang=AI-->
+[Gemma 4](./docs/gemma4.md)<!--rehype:style=background:rgb(87 132 217);&class=tag&data-lang=AI-->
+[Grok CLI](./docs/grok-cli.md)<!--rehype:style=background:rgb(122 87 217);&class=tag&data-lang=AI-->
 <!--rehype:class=home-card-->
 
 ## Docker
@@ -303,8 +313,6 @@ Quick Reference
 
 ## 工具
 
-[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
-[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=tag&data-lang=AI-->
 [Emacs](./docs/emacs.md)<!--rehype:style=background:rgb(98 36 134);-->
 [Linux Command](./docs/linux-command.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=命令速查-->
 [Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background:rgb(4 92 135);-->
@@ -440,7 +448,6 @@ Quick Reference
 <a href="https://github.com/qyl27" title="雨落"><img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="雨落"/></a>
 <a href="https://github.com/MackDing" title="Blossom"><img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/></a>
 <a href="https://github.com/1250422131" title="萌新杰少"><img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/></a>
-<a href="https://github.com/zineyu" title="zine yu"><img src="https://avatars.githubusercontent.com/u/46991452?v=4" width="42;" alt="zine yu"/></a>
 <a href="https://github.com/richuff" title="richuff"><img src="https://avatars.githubusercontent.com/u/162144087?v=4" width="42;" alt="richuff"/></a>
 <a href="https://github.com/QinIndexCode" title="Qin"><img src="https://avatars.githubusercontent.com/u/177287013?v=4" width="42;" alt="Qin"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>
@@ -582,7 +589,7 @@ Quick Reference
 <a href="https://github.com/dogxii" title="Dogxi"><img src="https://avatars.githubusercontent.com/u/106546046?v=4" width="42;" alt="Dogxi"/></a>
 <a href="https://github.com/YLee9527" title="Terry Young"><img src="https://avatars.githubusercontent.com/u/18697332?v=4" width="42;" alt="Terry Young"/></a>
 <a href="https://github.com/whb1998a" title="Wafer"><img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="Wafer"/></a>
-<a href="https://github.com/dwgeneral" title="Happy-Engineer"><img src="https://avatars.githubusercontent.com/u/8654993?v=4" width="42;" alt="Happy-Engineer"/></a>
+<a href="https://github.com/dwgeneral" title="Way"><img src="https://avatars.githubusercontent.com/u/8654993?v=4" width="42;" alt="Way"/></a>
 <a href="https://github.com/BATTLEHAWK00" title="While True: learn()"><img src="https://avatars.githubusercontent.com/u/45313304?v=4" width="42;" alt="While True: learn()"/></a>
 <a href="https://github.com/hi-liyan" title="李李李"><img src="https://avatars.githubusercontent.com/u/40056492?v=4" width="42;" alt="李李李"/></a>
 <a href="https://github.com/Yo-gurts" title="Yogurt"><img src="https://avatars.githubusercontent.com/u/44612841?v=4" width="42;" alt="Yogurt"/></a>
